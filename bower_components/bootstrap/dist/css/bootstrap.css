@@ -7483,6 +7483,10 @@ html body {
 #navbar .container-fluid {
   background: #fff;
 }
+#navbar .number-right a {
+  color: #362c6e;
+  font-size: 1.85rem;
+}
 @media (max-width: 1024px) {
   .navbar-header {
     float: none;
@@ -7797,5 +7801,15 @@ footer.container-fluid p {
 }
 .sticky .container-fluid .navbar-toggle span {
   background: #fff !important;
+}
+.sticky .number-right a {
+  color: #fff !important;
+  font-size: 1.85rem;
+}
+@media (max-width: 767px) {
+  .yamm-fw {
+    overflow: auto;
+    max-height: 200px;
+  }
 }
 /*# sourceMappingURL=bootstrap.css.map */
