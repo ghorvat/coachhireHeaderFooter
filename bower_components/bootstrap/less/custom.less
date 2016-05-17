@@ -168,6 +168,14 @@ html {
           margin: 0;
           padding-top: 2rem;
         }
+        > li {
+          background: transparent;
+          a {
+            &:hover, &:focus,&:active {
+              background: transparent;
+            }
+          }
+        }
       }
       .secondary {
         li {
@@ -298,6 +306,10 @@ html {
         }
       }
     }
+  }
+
+  .container-fluid {
+    background: #fff;
   }
 
 }
@@ -605,4 +617,28 @@ footer.container-fluid {
 
 .panels-flexible-row-first {
   display: none;
+}
+
+.sticky {
+  .container-fluid {
+    background: @purpleCoach !important;
+    .transparent-header {
+      background: @purpleCoach !important;
+      .nav {
+        li {
+          a {
+            color: #fff !important;
+          }
+          .dropdown-menu {
+            background: @purpleCoach !important;
+          }
+        }
+      }
+    }
+    .navbar-toggle {
+      span {
+        background: #fff !important;
+      }
+    }
+  }
 }
