@@ -7787,6 +7787,11 @@ footer.container-fluid p {
 .sticky .container-fluid .transparent-header .nav li a {
   color: #fff !important;
 }
+.sticky .container-fluid .transparent-header .nav li a:hover,
+.sticky .container-fluid .transparent-header .nav li a:focus,
+.sticky .container-fluid .transparent-header .nav li a:active {
+  color: #ff3478 !important;
+}
 .sticky .container-fluid .transparent-header .nav li .dropdown-menu {
   background: #362c6e !important;
 }
