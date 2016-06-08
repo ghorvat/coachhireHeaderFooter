@@ -1,0 +1,167 @@
+@media(max-width:1199px){
+  .region-header .region-inner{height:auto;}
+  #block-block-22{display:block; position:absolute; right:40px;top:0;}
+  #block-block-22 div.toggle{width:38px;}
+  #block-block-22 div.toggle-expanded{height:31px;background:url(../images/close.png) no-repeat center top;}
+  body.front #block-block-22 div.toggle-expanded{background:url(../images/close-blue.png) no-repeat center top;}
+  body.front .sticky #block-block-22 div.toggle-expanded{background:url(../images/close.png) no-repeat center top;}
+  #block-block-22 div.toggle-expanded span{display:none;}
+  #block-block-22 span.s1{background:#fff; display:block;font-size:0;line-height:0; height:5px;margin:10px 0 0;}
+  body.front #block-block-22 span.s1{background:#362C6E;}
+  body.front .sticky #block-block-22 span.s1{background:#fff;}
+  #block-block-22 span.s1-first{margin:0;}
+  html.js #block-block-22 div.contextual-links-wrapper{display:none;}
+  #block-block-2 .block-content{font-size:60px;line-height:70px;}
+  #block-block-7 .block-content{width:788px;}
+  #block-webform-client-block-38 .block-content{width:788px;height:auto; overflow:hidden;}
+  .region-footer .region-inner{width:788px; margin:0 auto;}
+  #block-block-6{text-align:center; padding:0 15px;}
+  #block-block-5 .block-content{text-align:center;}
+  #block-menu-menu-footer-menu{ padding:0 15px;}
+  #block-views-occasions-slider-block .view-content {height: 189px;}
+  #block-views-occasions-slider-block ul.occasions li{width:336px; }
+  #block-views-occasions-slider-block div.occasion{width:324px; margin:0 auto;}
+  #block-views-locations-slider-block .view-content {height: 189px;}
+  #block-views-locations-slider-block ul.locations li{width:336px;}
+  #block-views-locations-slider-block div.location{width:324px; margin:0 auto;}
+  .view-id-vehicle_classes.view-display-id-page .col1{float:left;width:394px;}
+  #block-coachhire-one-return-tabs2 .box01{width:758px;}
+  #block-coachhire-one-return-tabs2 div.great{ position:static;text-align:right;}
+  body.page-node-46 h1#page-title{text-align:center; }
+  body.page-node-46.page-node-done #block-block-18{padding:10px 0 0;}
+  body.page-node-46.page-node-done .wrapper-box{padding:0 0 60px;}
+  .view-id-occasions.view-display-id-page ul.occasions li{width:394px;}
+  .view-id-locations.view-display-id-page ul.locations li{width:394px;}
+  #block-views-locations-block{padding:20px 7px 20px;}
+  #block-views-locations-block .block-content .all{text-align:left;}
+  #block-views-locations-block .block-content .view-content ul.locations li{width:25%;}
+  .top-wrapper{width:auto; padding:0 15px;}
+  #block-block-17 .block-content{width:788px;}
+  #block-block-17 .block-content .col1{width:394px;}
+  #block-views-testimonial-for-occasion-block ul.testimonials{width:788px;}
+  #block-views-testimonial-for-occasion-block li.testimonial{width:394px;}
+  #block-views-testimonial-for-occasion-block li.testimonial-2{display:none;}
+  #block-views-locations-slider-block div.where{width:auto; padding:0 15px 20px;}
+}
+
+
+@media(max-width:787px){
+  #block-block-22 span.s1{margin:6px 0 0;}
+  #block-block-22 span.s1-first{margin:0;}
+  #block-block-22{right:15px;top:0;}
+  #block-block-1 .block-content{font-size:20px;line-height:24px;}
+  #block-block-2 .block-content h1{font-size:38px;line-height:48px; padding:0px 0 66px;}
+  #block-block-3{display:none;}
+  #block-coachhire-one-return-tabs ul.tabs{width:310px;}
+  #block-block-7 .block-content{width:340px;}
+  #block-webform-client-block-38 .block-content{width:310px;}
+  #block-webform-client-block-38 input.form-email{width:100%;}
+  #block-webform-client-block-38 .form-actions{float:none; padding:2px 0 0 0px;}
+  #block-webform-client-block-38 input.form-submit{ padding:12px 0px;width:100%;}
+  #block-webform-client-block-38 .webform-component--sign-up{float:none; margin:0;text-align:center;font-size:24px;}
+  #block-webform-client-block-38 .webform-component--sign-up p{margin:0;}
+  #block-menu-menu-footer-menu ul.menu li.leaf{width:50%;font-size:18px;}
+  .region-footer .region-inner{width:auto;}
+  #block-menu-menu-legal-menu{float:none;background:#ECECEC; padding:19px 0;}
+  #block-block-4{float:none; padding:10px 0 0;}
+  #block-block-4 .block-content p{text-align:center;}
+  .region-footer{background:none; padding:0;}
+  #block-coachhire-one-return-tabs .form-actions{float:none;}
+  #block-coachhire-one-return-tabs .form-actions input.form-submit{width:100%; padding:13px 0;}
+  #block-views-occasions-slider-block div.cols1 .col2{display:none;}
+  #block-views-occasions-slider-block div.where{font-size:20px;line-height:30px;}
+  #block-views-occasions-slider-block div.where a{font-size:17px;}
+  body.front .region-highlighted .region-inner{height:auto;}
+  #block-views-occasions-slider-block ul.occasions li{width:280px;}
+  #block-views-occasions-slider-block div.occasion{width:268px; margin:0 auto;}
+  #block-views-locations-slider-block ul.locations li{width:280px;}
+  #block-views-locations-slider-block div.location{width:268px; margin:0 auto;}
+  /*#block-views-occasions-slider-block .view-content {*/
+    /*height: 216px;*/
+  /*}*/
+  /*#block-views-locations-slider-block .view-content {*/
+    /*height: 216px;*/
+  /*}*/
+  #block-coachhire-one-return-tabs2 .box01{width:310px;}
+  #block-coachhire-one-return-tabs2 div.great{text-align:center; padding:0 0 36px;}
+  #block-coachhire-one-return-tabs2 .form-actions{float:none;}
+  #block-coachhire-one-return-tabs2 .form-actions input.form-submit{width:100%; padding:13px 0;}
+  .view-id-vehicle_classes.view-display-id-page .col1{float:none;width:auto; padding:15px 0 15px;}
+  .view-id-vehicle_classes.view-display-id-page li.vehicle{padding:0;}
+  #block-block-16{height:auto; padding:30px 0 66px;}
+  #block-block-16 h2{font-size:42px;line-height:46px; padding:0 0 20px;}
+  #block-block-16 .block-content p{width:auto;}
+  #node-46{width:auto;}
+  body.page-node-46.page-node-done .webform-confirmation h2.thank{margin:0;font-size:38px;line-height:42px; padding:0 0 10px;}
+  #block-views-header-text-in-package-block .view-content{padding:30px 0 66px;height:auto;}
+  #block-views-header-text-in-package-block .title{font-size:42px;line-height:46px; margin:0; padding:0 0 20px;}
+  body.page-locations .region-highlighted .region-inner,
+  body.page-occasions .region-highlighted .region-inner{height:auto;}
+  #block-block-13{ padding:30px 0 66px;}
+  #block-block-13 .block-content p{width:auto;}
+  #block-block-13 h2.block-title{font-size:42px;line-height:46px;padding:0 0 20px;}
+  #block-block-23{ padding:30px 0 66px;}
+  #block-block-23 .block-content p{width:auto;}
+  #block-block-23 h2.block-title{font-size:42px;line-height:46px;padding:0 0 20px;}
+  .view-id-locations.view-display-id-page ul.locations li{width:340px;}
+  .view-id-locations.view-display-id-page div.location{width:310px;}
+  .view-id-locations.view-display-id-page div.title{top:75px;}
+  .view-id-locations.view-display-id-page div.title-two-line{top:60px;}
+  .view-id-locations.view-display-id-page div.title a{font-size:29px;line-height:32px;}
+  #block-views-header-text-in-location-block .view-content{height:auto; padding:30px 0 66px;}
+  #block-views-header-text-in-location-block .title{font-size:42px;line-height:46px; padding:0;}
+  #block-views-locations-block .block-content .view-content ul.locations li{width:50%;}
+  #block-views-locations-block .block-content .location .title{top:45px;}
+  #block-views-locations-block .block-content .location .title a{font-size:17px;}
+  #block-block-11 .block-content p{width:auto;}
+  #webform-client-form-22{width:auto; padding:0 15px;}
+  #block-block-12{padding:20px 15px 0;}
+  form#views-exposed-form-blog-articles-page .views-exposed-form .views-widget-sort-by{float:none;}
+  form#views-exposed-form-blog-articles-page input.form-text{width:180px;}
+  form#views-exposed-form-blog-articles-page .views-exposed-form .views-widget-sort-by{float:none; padding:0 0 10px;}
+  .view-blog-articles .cols1 .col1{float:none;width:auto;}
+  .view-blog-articles .cols1 .col2{float:none;width:auto; padding:16px 0 0;}
+  #block-views-popular-news-block .cols1 .col2{width:220px;}
+  /*#block-views-header-text-in-occasion-block .view-content{height:auto; padding:30px 0 30px;}*/
+  #block-views-header-text-in-occasion-block .title{font-size:42px;line-height:46px; padding:0;}
+  #block-block-17 .block-content{width:340px;}
+  #block-block-17 .block-content .col1{width:auto; clear:both; float:none;}
+  #block-views-testimonial-for-occasion-block ul.testimonials{width:340px;}
+  #block-views-testimonial-for-occasion-block li.testimonial{width:340px;}
+  #block-views-testimonial-for-occasion-block div.body{height:auto;}
+  #block-block-21 .cols1{width:288px;}
+  #block-block-21 .cols1 .col2{margin:0 0 0 32px;}
+  #block-block-21 .cols1 .col3{margin:0 0 0 32px;}
+  #block-block-21 .cols1 .col4{margin:0 0 0 32px;}
+  #block-block-21 .cols2{width:320px;}
+  #block-block-21 .cols2 .col1{width:80px;font-size:14px;line-height:16px;}
+  #block-block-21 .cols3{width:310px;}
+  #block-block-7 .block-content strong{display:block;}
+  #block-block-7 .block-content a{margin:0;}
+  
+}
+
+@media only screen and (min-width:768px) and (max-width: 787px) {
+  #block-views-occasions-slider-block .view-content {
+    height: 156px;
+  }
+  #block-views-locations-slider-block .view-content {
+    height: 156px;
+  }
+}
+
+  @media(max-width:339px){
+  #block-views-locations-slider-block div.where,
+  #block-views-occasions-slider-block div.where {
+    font-size: 18px;
+    line-height: 22px;
+  }
+  #block-views-locations-slider-block div.where a,
+  #block-views-occasions-slider-block div.where a {
+    font-size: 15px;
+  }
+  #block-block-6 .block-content img{max-width:100%;}
+  #block-menu-menu-footer-menu {
+    padding: 0 10px;
+  }
+}
