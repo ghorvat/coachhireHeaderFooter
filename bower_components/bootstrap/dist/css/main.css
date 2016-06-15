@@ -6744,14 +6744,14 @@ select {
   background: #fff url("http://www.scottgood.com/jsg/blog.nsf/images/arrowdown.gif") no-repeat 96% 50%; }
 
 @media (min-width: 1200px) {
-   #block-system-main-menu ul.menu li a {
+  .front #block-system-main-menu ul.menu li a {
     color: #362c6e; } }
 
- #block-system-main-menu ul.menu li a:hover,  #block-system-main-menu ul.menu li a:focus,  #block-system-main-menu ul.menu li a:active {
+.front #block-system-main-menu ul.menu li a:hover, .front #block-system-main-menu ul.menu li a:focus, .front #block-system-main-menu ul.menu li a:active {
   color: #FF3577 !important;
   background: transparent; }
 
- #block-system-main-menu ul.menu li .dropdown-menu {
+.front #block-system-main-menu ul.menu li .dropdown-menu {
   background: transparent; }
 
 .sticky {
@@ -7196,7 +7196,7 @@ input, optgroup, select, textarea {
 
 @media (max-width: 767px) {
   .select-your-vehicle-block .cols1 {
-    width: 100%; } }
+    width: 280px; } }
 
 @media (max-width: 767px) {
   .select-your-vehicle-block .cols1 .col2 {
@@ -8606,7 +8606,7 @@ body.page-node-311 h1#page-title {
   background: #fff;
   height: 4px; }
 
- .navbar-toggle .icon-bar {
+.front .navbar-toggle .icon-bar {
   background: #362c6e; }
 
 @media (max-width: 1199px) {
@@ -8649,10 +8649,10 @@ body.page-node-311 h1#page-title {
   .sm-number p {
     margin: 0; } }
 
- #block-block-1 .block-content,#block-block-1--2 .block-content {
+body.front #block-block-1 .block-content, body.front #block-block-1--2 .block-content {
   color: #362C6E; }
 
- .sticky #block-block-1 .block-content,.sticky #block-block-1--2 .block-content {
+body.front .sticky #block-block-1 .block-content, body.front .sticky #block-block-1--2 .block-content {
   color: #fff; }
 
 #block-block-1 {
@@ -8957,6 +8957,27 @@ body.page-node-311 h1#page-title {
 .bookingConfirmVoova input[type="radio"], .bookingConfirmVoova input[type="checkbox"] {
   margin: 0; }
 
+.bookingConfirmVoova .secure-logo {
+  padding-top: 0 !important;
+  position: absolute;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -moz-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  -o-transform: translateY(-50%);
+  transform: translateY(-50%);
+  right: 0; }
+@media (max-width: 767px) {
+  .bookingConfirmVoova .secure-logo {
+    position: relative;
+    padding-top: 0.8rem !important;
+    top: 0;
+    -webkit-transform: translateY(0);
+    -moz-transform: translateY(0);
+    -ms-transform: translateY(0);
+    -o-transform: translateY(0);
+    transform: translateY(0); } }
+
 .region-content h2 {
   font-family: 'Montserrat', sans-serif;
   font-size: 25px;
@@ -9000,8 +9021,8 @@ form#views-exposed-form-blog-articles-page input.form-text {
   width: 11em;
   position: relative;
   display: inline-block;
-  background: url("http://www.scottgood.com/jsg/blog.nsf/images/arrowdown.gif") no-repeat;
-  background-size: 15px 20px;
+  background: url("img/down-arrow.png") no-repeat;
+  background-size: 10px 6px;
   background-position: 95% center;
   background-color: #ffffff;
   height: 47px;
@@ -9310,3 +9331,15 @@ form#views-exposed-form-blog-articles-page input.form-text {
 #block-coachhire-one-return-tabs .tab-cont {
   text-align: center;
   position: relative; }
+
+#edit-submitted-number-of-passengers::-ms-expand {
+  display: none; }
+
+.my_panel > .panel-footer {
+  min-height: 210px; }
+
+@media (max-width: 1199px) {
+  .page-node-35 .mobile-view {
+    width: 32% !important; }
+  .page-node-35 .mobile-view .my_panel > .panel-footer {
+    min-height: 256px !important; } }
